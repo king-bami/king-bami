@@ -1,13 +1,9 @@
-- 👋 Hi, I’m Bakare omogbolahan Atanda @king-bami
-- 
-- 👀 I’m interested in building the layout/structure of web page
-- 🌱 I’m currently learning javascript...
-- 💞️ I’m looking to collaborate on any e-commerce project, i love solving errors ...
-- 📫 How to reach me on
-- WHATSAPP:https://wa.link/4mc3kq
-- TWITTER:https://twitter.com/bakaregbolahan0?s=21&t=ePxdinQZ9dQeUkhTpNLwHA
-
-<!---
-king-bami/king-bami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MY NAME IS BAKARE OMOGBOLAHAN ATANDA,A JUNIOR FRONT-END DEVELOPER BASED IN LAGOS, NIGERIA.
+👋I’M CURRENTLY A STUDENT IN APTECH COMPUTER EDUCATION,NIGERIA 
+❤I JUST TURNED 21 IN JUNE😊
+👀INTERESTED IN BUILDING THE LAYOUT/STRUCTURE OF A WEBPAGE.
+🌱CURRENTLY LEARNING JAVASCRIPT AND BOOTSCRAP
+💞️I’M LOOKING TO COLLABORATE ON ANY E-COMMERCE PROJECT, I LOVE WEBSITE TROUBLESHOOTING, SOLVING ERRORS.
+📫GET IN TOUCH
+  -WHATSAPP:https://wa.link/4mc3kq
+  -TWITTER:https://twitter.com/bakaregbolahan0?s=21&t=ePxdinQZ9dQeUkhTpNLwHA
